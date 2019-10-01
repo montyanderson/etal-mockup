@@ -71,6 +71,12 @@ nav .right li {
 
 	border-top: 0.5rem solid black;
 	line-height: 1.2rem;
+
+	transition: border 0.1s;
+}
+
+nav .right li:hover {
+	border: none;
 }
 
 h1 {
